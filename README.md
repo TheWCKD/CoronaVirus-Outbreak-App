@@ -10,7 +10,7 @@
 
 
 
-I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/r3spSc) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
+I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/jwjqHYs) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
 <h2> Latest Update - 1.0.8 - (12th of March 2020)</h2>
 
