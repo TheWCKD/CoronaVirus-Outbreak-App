@@ -34,7 +34,7 @@ As every major step in life takes a huge ammount of time, this application was n
 
 If you enjoy it and would like me to continue adding more features, please make sure you
 
-<b>[DONATE & SUPPORT THIS PROJECT.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFZGFLDERYMG&source=url) </b>
+<b>[DONATE & SUPPORT THIS PROJECT](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFZGFLDERYMG&source=url) </b>
 
 Thank you!
 
