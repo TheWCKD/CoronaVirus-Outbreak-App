@@ -17,20 +17,29 @@ On this repository it is recommended that you <li> download and install the late
 - <b> [Download from MEGA.NZ (v1.0.8)](https://mega.nz/#!VYICCYbD!y0dpSzBzY-sRGEo-ESCm_vEdDLWNYCX4coKktlZHycs) </b>
 - <b> [Download from GOOGLE DRIVE (v1.0.8)](https://drive.google.com/open?id=1OPoqMaTVdu_jwgVp_EXLUjjFm0E2Btr9) </b>
 
+<h2> Instalation </h2>
+
+1. Download the latest update from the link above.
+2. You will end up with an .apk file which you'll have to tap in order to install it.
+3. Android will most likely tell you that you're installing an app from unknown sources and that you have to grant permissions to do that.
+4. Grand the required permissions and try installing it again, this time it will work.
+5. Open up the application and have fun! 
+
+
 <h2> The story behind</h2>
 
-Google pulled out this application twice out of Google Play Store stating that it does lack sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data.
+[Google pulled out this application twice](https://i.imgur.com/odHVpRE.png) out of Google Play Store stating that it does lack sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data.
 
-As a result, I decided that instead of erasing more than 3 months of development (since I did everything by my own), I should post this application as it is here, without having to depend on Google.
+As a result, I decided that instead of having a neverending argue with Google Support Team Members & erasing more than 3 months of development (since I did everything by my own), I should post this application as it is here, without having to depend on Google.
 
 
-This application has all the premium features activated, including the ad-free experience so you can fully enjoy it.
+This application has all the premium features activated, including an ad-free experience, so you can fully enjoy it.
 
 ![](https://thumbs.gfycat.com/ColdHonorableBurro-size_restricted.gif)
 
 <h2> Support the development </h2>
 
-As every major step in life takes a huge ammount of time, this application was no exception.
+As every major step in life takes a huge ammount of time, this application was no exception to the rule.
 
 If you enjoy it and would like me to continue adding more features, please make sure you
 
