@@ -27,7 +27,9 @@ This application has all the premium features activated, including the ad-free e
 
 As every major step in life takes a huge ammount of time, this application was no exception.
 
-If you enjoy it and would like me to continue adding more features, please make sure you [donate and support this project.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFZGFLDERYMG&source=url) 
+If you enjoy it and would like me to continue adding more features, please make sure you
+
+[DONATE & SUPPORT THIS PROJECT.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFZGFLDERYMG&source=url) 
 
 Thank you!
 
