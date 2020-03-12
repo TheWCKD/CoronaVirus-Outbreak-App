@@ -12,14 +12,16 @@
 
 On this repository it is recommended that you <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/r3spSc) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
-<h2> Latest Update - 1.0.8</h2>
+<h2> Latest Update - 1.0.8 - (12th of March 2020)</h2>
 
-- <b> [Download from MEGA.NZ (v1.0.8)](https://mega.nz/#!VYICCYbD!y0dpSzBzY-sRGEo-ESCm_vEdDLWNYCX4coKktlZHycs) </b>
-- <b> [Download from GOOGLE DRIVE (v1.0.8)](https://drive.google.com/open?id=1OPoqMaTVdu_jwgVp_EXLUjjFm0E2Btr9) </b>
+- <b> [Download from MEGA.NZ (v1.0.8)](https://mega.nz/#!cIJjjSKZ!QjYGA9DF-McLxsEUpN5uK6VEWbkQ-Ue4wMLXMpqYYY0) </b>
+- <b> [Download from GOOGLE DRIVE (v1.0.8)](https://drive.google.com/open?id=1W_WUHYwtYo0Z4t9bR_rAm7NvOb_l2Yb9) </b>
+
+<i>Note: For those of you who know what the instruction sets of your device's CPU is (arm64, armeabi, x86_64), you can check out the specific app files [here](https://mega.nz/#F!RBgnRS7Z!ykNrwvgk2wvb51IbE6YRPw). For those of you who read this and wanna know how to find your device's CPU instruction set, [read this article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/).</i>
 
 <h2> Instalation </h2>
 
-1. Download the latest update from the link above.
+1. Download the latest update from one of the links above.
 2. You will end up with an .apk file which you'll have to tap in order to install it.
 3. Android will most likely tell you that you're installing an app from unknown sources and that you have to grant permissions to do that.
 4. Grand the required permissions and try installing it again, this time it will work.
@@ -28,10 +30,11 @@ On this repository it is recommended that you <li> download and install the late
 
 <h2> The story behind</h2>
 
-[Google pulled out this application twice](https://i.imgur.com/odHVpRE.png) out of Google Play Store stating that it does lack sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data.
+[Google pulled this application twice](https://i.imgur.com/odHVpRE.png) out of Google Play Store, stating that it lacks sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data (from WHO.INT) about COVID-19.
 
-As a result, I decided that instead of having a neverending argue with Google Support Team Members & erasing more than 3 months of development (since I did everything by my own), I should post this application as it is here, without having to depend on Google.
+As a result, I decided that instead of having a never-ending argue with Google Support & erasing more than 3 months of development (since I did everything by my own), I should post this application as it is here, without having to depend on Google.
 
+The main purpose of this application was to help people have all the stats about CoronaVirus at a glance, on their android smartphones, but since Google did everything they could to stop this, I found myself with no other option than posting the application here, in hoping that the app will eventually fulfil its purpose.
 
 This application has all the premium features activated, including an ad-free experience, so you can fully enjoy it.
 
