@@ -5,7 +5,10 @@
 
 <b> Welcome to the official repository of Tiberiu Potec's (W_C_K_D) CoronaVirus Outbreak Android Application! </b>
 
-![](https://thumbs.gfycat.com/ColdHonorableBurro-size_restricted.gif)
+![](https://i.imgur.com/lJvjEtm.jpg)
+![](https://i.imgur.com/q3BRFZK.jpg)
+
+
 
 On this repository it is recommended that you <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/r3spSc) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
@@ -23,7 +26,9 @@ As a result, I decided that instead of erasing more than 3 months of development
 
 This application has all the premium features activated, including the ad-free experience so you can fully enjoy it.
 
-<h2> The story behind</h2>
+![](https://thumbs.gfycat.com/ColdHonorableBurro-size_restricted.gif)
+
+<h2> Support the development </h2>
 
 As every major step in life takes a huge ammount of time, this application was no exception.
 
