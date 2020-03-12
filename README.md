@@ -10,7 +10,7 @@
 
 
 
-On this repository it is recommended that you <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/r3spSc) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
+I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/r3spSc) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
 <h2> Latest Update - 1.0.8 - (12th of March 2020)</h2>
 
@@ -27,8 +27,20 @@ On this repository it is recommended that you <li> download and install the late
 4. Grand the required permissions and try installing it again, this time it will work.
 5. Open up the application and have fun! 
 
+<h2> Application Permissions </h2>
+
+Since you're not downloading the application from Google Play Store, you may want to know what permissions does this app require and when/where they are used, so here we go.
+
+- <b> Internet Permission </b> -> Pretty obvious, it's used to gather and parse the latest COVID-19 stats, news & data
+- <b> Location Permission </b>-> Disabled by default, users can enable it if they want to use location-based stats feature, since this uses, as you may expect, GPS Localization
+- <b> Networkstate Permission </b> -> Used to monitor whether the application is/isn't connected to the internet, so that it will know whether to update the stats or not
+
+That's all.
 
 <h2> The story behind</h2>
+
+![suspension](https://i.imgur.com/TjjHf91.png)
+
 
 [Google pulled this application twice](https://i.imgur.com/odHVpRE.png) out of Google Play Store, stating that it lacks sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data (from WHO.INT) about COVID-19.
 
