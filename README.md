@@ -17,12 +17,19 @@ On this repository it is recommended that you <li> download and install the late
 <h2> The story behind</h2>
 
 Google pulled out this application twice out of Google Play Store stating that it does lack sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data.
+
 As a result, I decided that instead of erasing more than 3 months of development (since I did everything by my own), I should post this application as it is here, without having to depend on Google.
+
+
 This application has all the premium features activated, including the ad-free experience so you can fully enjoy it.
 
 <h2> The story behind</h2>
 
-As every major step in life takes a huge ammount of time, this application was no exception. If you enjoy it and would like me to continue adding more features, please make sure you [donate and support this project.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFZGFLDERYMG&source=url) Thank you!
+As every major step in life takes a huge ammount of time, this application was no exception.
+
+If you enjoy it and would like me to continue adding more features, please make sure you [donate and support this project.](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YUFZGFLDERYMG&source=url) 
+
+Thank you!
 
 ![](https://media.tenor.com/images/c674ba98c40f6793eaf10a1356c1c36a/tenor.gif)
 
