@@ -16,7 +16,7 @@ On this repository it is recommended that you <li> download and install the late
 
 <h2> The story behind</h2>
 
-Google has been pulled out this application twice of Google Play Store stating that it does lack sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data.
+Google pulled out this application twice out of Google Play Store stating that it does lack sensivity towards CoronaVirus, which is obviously not true, since all it does is showing some actual real and official data.
 As a result, I decided that instead of erasing more than 3 months of development (since I did everything by my own), I should post this application as it is here, without having to depend on Google.
 This application has all the premium features activated, including the ad-free experience so you can fully enjoy it.
 
