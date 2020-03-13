@@ -12,10 +12,10 @@
 
 I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/jwjqHYs) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
-<h2> Latest Update - 1.0.8 - (12th of March 2020)</h2>
+<h2> Latest Update - 1.1.0 - (13th of March 2020)</h2>
 
-- <b> [Download from MEGA.NZ (v1.0.8)](https://mega.nz/#!cIJjjSKZ!QjYGA9DF-McLxsEUpN5uK6VEWbkQ-Ue4wMLXMpqYYY0) </b>
-- <b> [Download from GOOGLE DRIVE (v1.0.8)](https://drive.google.com/open?id=1W_WUHYwtYo0Z4t9bR_rAm7NvOb_l2Yb9) </b>
+- <b> [Download from MEGA.NZ (v1.1.0)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
+- <b> [Download from GOOGLE DRIVE (v1.1.0)](https://drive.google.com/open?id=1XUNnJe8-lwUmCjhc0cAYJg0Kd8Z3QHO2) </b>
 
 <i>Note: For those of you who know what the instruction sets of your device's CPU is (arm64, armeabi, x86_64), you can check out the specific app files [here](https://mega.nz/#F!RBgnRS7Z!ykNrwvgk2wvb51IbE6YRPw). For those of you who read this and wanna know how to find your device's CPU instruction set, [read this article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/).</i>
 
