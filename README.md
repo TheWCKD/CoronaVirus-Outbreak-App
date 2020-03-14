@@ -1,13 +1,11 @@
-![](https://i.imgur.com/uKvgnK4.jpg)
+![](https://i.imgur.com/K8FTaiV.jpg)
 
 
 # CoronaVirus Outbreak Application
 
 <b> Welcome to the official repository of Tiberiu Potec's (W_C_K_D) CoronaVirus Outbreak Android Application! </b>
 
-![](https://i.imgur.com/lJvjEtm.jpg)
-![](https://i.imgur.com/q3BRFZK.jpg)
-![](https://i.imgur.com/OeL7Lui.jpg)
+![](https://i.imgur.com/SqA9OYt.jpg)
 
 
 
@@ -29,10 +27,10 @@ Here are some of the main features provided by my application:
 
 All of the above features can be observed into the screenshots above.
 
-<h2> Latest Update - 1.1.0 - (13th of March 2020)</h2>
+<h2> Latest Update - 1.1.1 - (15th of March 2020)</h2>
 
-- <b> [Download from MEGA.NZ (v1.1.0)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
-- <b> [Download from GOOGLE DRIVE (v1.1.0)](https://drive.google.com/open?id=1XUNnJe8-lwUmCjhc0cAYJg0Kd8Z3QHO2) </b>
+- <b> [Download from MEGA.NZ (v1.1.1)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
+- <b> [Download from GOOGLE DRIVE (v1.1.1)](https://drive.google.com/open?id=1XUNnJe8-lwUmCjhc0cAYJg0Kd8Z3QHO2) </b>
 
 <i>Note: For those of you who know what the instruction sets of your device's CPU is (arm64, armeabi, x86_64), you can check out the specific app files [here](https://mega.nz/#F!RBgnRS7Z!ykNrwvgk2wvb51IbE6YRPw). For those of you who read this and wanna know how to find your device's CPU instruction set, [read this article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/).</i>
 
@@ -66,8 +64,6 @@ As a result, I decided that instead of having a never-ending argue with Google S
 The main purpose of this application was to help people have all the stats about CoronaVirus at a glance, on their android smartphones, but since Google did everything they could to stop this, I found myself with no other option than posting the application here, in hoping that the app will eventually fulfil its purpose.
 
 This application has all the premium features activated, including an ad-free experience, so you can fully enjoy it.
-
-![](https://thumbs.gfycat.com/ColdHonorableBurro-size_restricted.gif)
 
 <h2> Support the development </h2>
 
