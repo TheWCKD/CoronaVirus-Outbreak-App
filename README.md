@@ -13,6 +13,22 @@
 
 I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/jwjqHYs) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
+<b> This application was built thanks to the amazing dataset provided by [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19). Huge thanks to them! </b>
+
+Here are some of the main features provided by my application:
+
+
+- access the main latest stats of COVID-19 Outbreak like number of cases, deaths and recoveries
+- access the COVID-19 SELF TEST, a diagnose system which will show an estimation on how probabily it is for a symptomatic user to have COVID-19 disease. (NOTE: The test is not meant to replace specialised medical advisory)
+- notice the evolution of the virus across Mainland China and the rest of the world
+- check out the latest and most popular headlines about Coronavirus Outbreak, share them with your friends
+- access the infection world map with detailed stats about each affected country
+- get user-location based stats and prevention advice
+- push-notifications about latest statistics with selectable interval (15 mins, 30 mins etc.)
+- update the UI by changing background particle settings
+
+All of the above features can be observed into the screenshots above.
+
 <h2> Latest Update - 1.1.0 - (13th of March 2020)</h2>
 
 - <b> [Download from MEGA.NZ (v1.1.0)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
