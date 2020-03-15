@@ -36,7 +36,7 @@ All of the above features can be observed into the screenshots above.
 
 <h2> Instalation </h2>
 
-1. Download the latest update from one of the links above.
+1. Download the latest update from one of the links at the top of the page.
 2. You will end up with an .apk file which you'll have to tap in order to install it.
 3. Android will most likely tell you that you're installing an app from unknown sources and that you have to grant permissions to do that.
 4. Grand the required permissions and try installing it again, this time it will work.
