@@ -20,8 +20,7 @@ I opened this repository so that you can <li> download and install the latest of
 
 <b> This application was built thanks to the amazing dataset provided by [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19). Huge thanks to them! </b>
 
-Here are some of the main features provided by my application:
-
+<h2> Features </h2>
 
 - access the main latest stats of COVID-19 Outbreak like number of cases, deaths and recoveries
 - access the COVID-19 SELF TEST, a diagnose system which will show an estimation on how probabily it is for a symptomatic user to have COVID-19 disease. (NOTE: The test is not meant to replace specialised medical advisory)
