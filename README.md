@@ -1,3 +1,10 @@
+<h2> Latest Update - 1.1.1 - (15th of March 2020)</h2>
+
+- <b> [Download from MEGA.NZ (v1.1.1)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
+- <b> [Download from GOOGLE DRIVE (v1.1.1)](https://drive.google.com/open?id=1XUNnJe8-lwUmCjhc0cAYJg0Kd8Z3QHO2) </b>
+
+<i>Note: For those of you who know what the instruction sets of your device's CPU is (arm64, armeabi, x86_64), you can check out the specific app files [here](https://mega.nz/#F!RBgnRS7Z!ykNrwvgk2wvb51IbE6YRPw). For those of you who read this and wanna know how to find your device's CPU instruction set, [read this article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/).</i>
+
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
 
@@ -26,13 +33,6 @@ Here are some of the main features provided by my application:
 - update the UI by changing background particle settings
 
 All of the above features can be observed into the screenshots above.
-
-<h2> Latest Update - 1.1.1 - (15th of March 2020)</h2>
-
-- <b> [Download from MEGA.NZ (v1.1.1)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
-- <b> [Download from GOOGLE DRIVE (v1.1.1)](https://drive.google.com/open?id=1XUNnJe8-lwUmCjhc0cAYJg0Kd8Z3QHO2) </b>
-
-<i>Note: For those of you who know what the instruction sets of your device's CPU is (arm64, armeabi, x86_64), you can check out the specific app files [here](https://mega.nz/#F!RBgnRS7Z!ykNrwvgk2wvb51IbE6YRPw). For those of you who read this and wanna know how to find your device's CPU instruction set, [read this article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/).</i>
 
 <h2> Instalation </h2>
 
