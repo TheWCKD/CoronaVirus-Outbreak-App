@@ -1,9 +1,6 @@
-<h2> Latest Update - 1.1.1 - (15th of March 2020)</h2>
+<h2> Latest Update - 1.1.2 - (15th of March 2020)</h2>
 
-- <b> [Download from MEGA.NZ (v1.1.1)](https://mega.nz/#F!0dAG0IyQ!chRRyRGJryiCEIpfK1wVgA) </b>
-- <b> [Download from GOOGLE DRIVE (v1.1.1)](https://drive.google.com/open?id=1XUNnJe8-lwUmCjhc0cAYJg0Kd8Z3QHO2) </b>
-
-<i>Note: For those of you who know what the instruction sets of your device's CPU is (arm64, armeabi, x86_64), you can check out the specific app files [here](https://mega.nz/#F!RBgnRS7Z!ykNrwvgk2wvb51IbE6YRPw). For those of you who read this and wanna know how to find your device's CPU instruction set, [read this article](https://android.gadgethacks.com/how-to/android-basics-see-what-kind-processor-you-have-arm-arm64-x86-0168051/).</i>
+- <b> [Download from Github Releases (v1.1.2)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
@@ -13,8 +10,6 @@
 <b> Welcome to the official repository of Tiberiu Potec's (W_C_K_D) CoronaVirus Outbreak Android Application! </b>
 
 ![](https://i.imgur.com/SqA9OYt.jpg)
-
-
 
 I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/jwjqHYs) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
@@ -50,6 +45,10 @@ Since you're not downloading the application from Google Play Store, you may wan
 - <b> Networkstate Permission </b> -> Used to monitor whether the application is/isn't connected to the internet, so that it will know whether to update the stats or not
 
 That's all.
+
+<h2>Why is the app closed source? Why don't you post the source code</h2>
+
+I have received these 2 questions a lot. The answer is that there are a lot of scammers out there in this period and I'm afraid they can modify the code to their benefit, so I won't be posting the source code for now. 
 
 <h2> The story behind</h2>
 
