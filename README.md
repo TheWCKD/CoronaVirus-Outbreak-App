@@ -1,6 +1,6 @@
-<h2> Latest Update - 1.1.2 - (15th of March 2020)</h2>
+<h2> Latest Update - 1.2.0 - (18th of March 2020)</h2>
 
-- <b> [Download from Github Releases (v1.1.2)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
+- <b> [Download from Github Releases (v1.2.0)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
@@ -25,6 +25,8 @@ I opened this repository so that you can <li> download and install the latest of
 - get user-location based stats and prevention advice
 - push-notifications about latest statistics with selectable interval (15 mins, 30 mins etc.)
 - update the UI by changing background particle settings
+- in app update system
+
 
 All of the above features can be observed into the screenshots above.
 
