@@ -1,19 +1,19 @@
-<h2> Latest Update - 1.2.0 - (18th of March 2020)</h2>
+<h2> Latest Update - 1.3.0 - (22th of March 2020)</h2>
 
-- <b> [Download from Github Releases (v1.2.0)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
+- <b> [Download from Github Releases (v1.3.0)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
 
-# CoronaVirus Outbreak Application
+# CoronaVirus Outbreak Tracker
 
-<b> Welcome to the official repository of Tiberiu Potec's (W_C_K_D) CoronaVirus Outbreak Android Application! </b>
+<b> Welcome to the official repository of Tiberiu Potec's (W_C_K_D) CoronaVirus Outbreak Tracker Android Application! </b>
 
-![](https://i.imgur.com/SqA9OYt.jpg)
+![](https://i.imgur.com/EK9bWHZ.jpg)
 
 I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/jwjqHYs) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
-<b> This application was built thanks to the amazing dataset provided by [CSSEGISandData](https://github.com/CSSEGISandData/COVID-19). Huge thanks to them! </b>
+<b> This application was built from official sources like [WHO](https://www.who.int/) & [CDC](https://www.cdc.gov/). </b>
 
 <h2> Features </h2>
 
@@ -23,7 +23,7 @@ I opened this repository so that you can <li> download and install the latest of
 - check out the latest and most popular headlines about Coronavirus Outbreak, share them with your friends
 - access the infection world map with detailed stats about each affected country
 - get user-location based stats and prevention advice
-- push-notifications about latest statistics with selectable interval (15 mins, 30 mins etc.)
+- push-notifications about latest global/country/state statistics with selectable interval (15 mins, 30 mins etc.)
 - update the UI by changing background particle settings
 - in app update system
 
@@ -48,9 +48,9 @@ Since you're not downloading the application from Google Play Store, you may wan
 
 That's all.
 
-<h2>Why is the app closed source? Why don't you post the source code</h2>
+<h2>Why is the app closed source? Why don't you post the source code?</h2>
 
-I have received these 2 questions a lot. The answer is that there are a lot of scammers out there in this period and I'm afraid they can modify the code to their benefit, so I won't be posting the source code for now. 
+I have received these 2 questions a lot. The answer is that there are a lot of scammers out there in this period and I'm afraid they can modify the code to their benefit, so I won't be posting the source code, at least for now. 
 
 <h2> The story behind</h2>
 
