@@ -1,4 +1,4 @@
-<h2> Latest Update - 1.3.1 - (22th of March 2020)</h2>
+<h2> Latest Update - 1.3.1 - (23th of March 2020)</h2>
 
 - <b> [Download from Github Releases (v1.3.1)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
