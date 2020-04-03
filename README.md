@@ -1,6 +1,6 @@
-<h2> Latest Update - 1.5.1 - (03th of April 2020)</h2>
+<h2> Latest Update - 1.5.2 - (03th of April 2020)</h2>
 
-- <b> [Download from Github Releases (v1.5.1)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
+- <b> [Download from Github Releases (v1.5.2)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
