@@ -9,7 +9,7 @@
 
 <b> Welcome to the official repository of Tiberiu Potec's (W_C_K_D) CoronaVirus Outbreak Tracker Android Application! </b>
 
-![](https://i.imgur.com/EK9bWHZ.jpg)
+![](https://i.imgur.com/bO6Wpdc.jpg)
 
 I opened this repository so that you can <li> download and install the latest official update of the application </li> <li> submit issues/features [on my Discord Server (recommended)](https://discord.gg/jwjqHYs) or [on this Github repo](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/issues)</li>
 
