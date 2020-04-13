@@ -2,6 +2,8 @@
 
 - <b> [Download from Github Releases (v1.6.0)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
+- <b>[YouTube App Walkthrough](https://youtu.be/LC-4FRBZlro) </b> 
+
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
 
