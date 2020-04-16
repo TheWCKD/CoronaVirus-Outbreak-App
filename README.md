@@ -1,8 +1,11 @@
-<h2> Latest Update - 1.6.1 - (13th of April 2020)</h2>
+<h2> Latest Update - 1.6.2 - (16th of April 2020)</h2>
 
-- <b> [Download from Github Releases (v1.6.1)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
+- <b> [DOWNLOAD from Github Releases (v1.6.2)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
-- <b>[YouTube App Walkthrough](https://youtu.be/LC-4FRBZlro) </b> 
+- <b> 🔹  [TELEGRAM GROUP](http://t.me/wckdcovid19)  </b>
+- <b> 🔹  [TELEGRAM CHANNEL](http://t.me/wckdcovid19channel)  </b>
+- <b> 💯  [DISCORD CHANNEL](https://discord.gg/jwjqHYs) </b>
+- <b> 📺  [YOUTUBE WALKTHROUGH](https://youtu.be/LC-4FRBZlro) </b>
 
 ![](https://i.imgur.com/K8FTaiV.jpg)
 
