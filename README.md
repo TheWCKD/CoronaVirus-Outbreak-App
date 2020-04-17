@@ -1,6 +1,6 @@
-<h2> Latest Update - 1.6.3 - (16th of April 2020)</h2>
+<h2> Latest Update - 1.6.4 - (17th of April 2020)</h2>
 
-- <b> 🦠 [DOWNLOAD from Github Releases (v1.6.3)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
+- <b> 🦠 [DOWNLOAD from Github Releases (v1.6.4)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
 
 - <b> 🔹 [TELEGRAM GROUP](http://t.me/wckdcovid19)  </b>
 - <b> 🔹 [TELEGRAM CHANNEL](http://t.me/wckdcovid19channel)  </b>
