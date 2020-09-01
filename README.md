@@ -1,3 +1,5 @@
+ <b><h2> NOT MAINTAINED ANYMORE. </h2> </b>
+
 <h2> Latest Update - 1.6.4 - (17th of April 2020)</h2>
 
 - <b> 🦠 [DOWNLOAD from Github Releases (v1.6.4)](https://github.com/TheWCKD/CoronaVirus-Outbreak-App/releases) </b>
